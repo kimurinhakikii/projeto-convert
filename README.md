@@ -11,7 +11,7 @@ O **Projeto Convert** é uma aplicação web desenvolvida com **HTML, CSS e Java
 ## 🚀 Tecnologias Utilizadas  
 
 - **HTML** → Estrutura do projeto  
-- **CSS** → Estilização e design responsivo  
+- **CSS** → Estilização
 - **JavaScript** → Lógica de conversão das moedas  
 
 Confira o projeto no repositório! ✨
